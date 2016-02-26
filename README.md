@@ -3,7 +3,10 @@
 MacReFlower
 ===========
 
-ORIGIN PROJECT:https://github.com/fibasile/MacReFlower
+ORIGIN PROJECT:
+https://github.com/fibasile/MacReFlower
+
+by Fiore Basile fiore.basile@gmail.com
 
 This is a little utility app that allows to drop PDF files and get them optimized for viewing on the Kindle Paperwhite, but
 might work for other e-Ink devices..
@@ -48,8 +51,6 @@ MacReFlower is distributed under the MIT License. See the LICENSE.txt for more i
 Contact information
 ==================
 
-Fiore Basile
+Wei Huang
 
-github: fibasile.github.io
-twitter: @fibasile
-email: <fiore.basile@gmail.com>
+email: <weihuang0908@qq.com>
