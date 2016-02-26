@@ -203,15 +203,12 @@
 
 
 - (void)runConversionTask:(id)sender {
-    //k2pdfopt -o k_technical_blogging.pdf technical_blogging.pdf -dev kpw -mode fw -wrap -pi- -hy -ws 0.375 -ls- -p 1-10 -ui-
+    //k2pdfopt -o k_technical_blogging.pdf technical_blogging.pdf -dev kpw -mode fw -wrap- -pi- -hy -ws 0.375 -ls- -p 1-10 -ui-
     NSArray* defaultOptions = [NSArray arrayWithObjects:
                                @"-dev",
                                @"kpw",
                                @"-mode",
-                               @"fw",
-                               @"-wrap-",
-                               @"-pi-",
-                               @"-hy",
+                               @"2col",
                                @"-ws",
                                @"0.375",
                                @"-ls-",
